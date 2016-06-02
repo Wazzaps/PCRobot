@@ -68,5 +68,7 @@ while (true) {
 Licence
 -------
 This software is licenced under the Mozilla Public License Version 2.0 licence
+
 See the LICENCE file for more information
+
 Also refer to the OpenCV licence at opencv/LICENCE
